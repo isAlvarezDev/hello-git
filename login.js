@@ -1,0 +1,1 @@
+const guayaba = prompt("Te gusta la guayaba")
